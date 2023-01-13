@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm a Software engineer</h1>
-<h3 align="center">Currently in Argentina, working as front-end,back-end and c# devloper</h3>
+<h3 align="center">Currently in Argentina, working as front-end,back-end and C# devloper</h3>
 
-- 📫 How to reach me **martinpatricio@outlook.com.ar**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pachimc" alt="pachimc" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
